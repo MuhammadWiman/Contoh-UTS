@@ -1,0 +1,16 @@
+C:\Users\wiman\Music\Belajar\Tugas_UTS\obj\Debug\net5.0\Tugas_UTS.csprojAssemblyReference.cache
+C:\Users\wiman\Music\Belajar\Tugas_UTS\obj\Debug\net5.0\Tugas_UTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiman\Music\Belajar\Tugas_UTS\obj\Debug\net5.0\Tugas_UTS.AssemblyInfoInputs.cache
+C:\Users\wiman\Music\Belajar\Tugas_UTS\obj\Debug\net5.0\Tugas_UTS.AssemblyInfo.cs
+C:\Users\wiman\Music\Belajar\Tugas_UTS\obj\Debug\net5.0\Tugas_UTS.csproj.CoreCompileInputs.cache
+C:\Users\wiman\Music\Belajar\Tugas_UTS\bin\Debug\net5.0\Tugas_UTS.exe
+C:\Users\wiman\Music\Belajar\Tugas_UTS\bin\Debug\net5.0\Tugas_UTS.deps.json
+C:\Users\wiman\Music\Belajar\Tugas_UTS\bin\Debug\net5.0\Tugas_UTS.runtimeconfig.json
+C:\Users\wiman\Music\Belajar\Tugas_UTS\bin\Debug\net5.0\Tugas_UTS.runtimeconfig.dev.json
+C:\Users\wiman\Music\Belajar\Tugas_UTS\bin\Debug\net5.0\Tugas_UTS.dll
+C:\Users\wiman\Music\Belajar\Tugas_UTS\bin\Debug\net5.0\ref\Tugas_UTS.dll
+C:\Users\wiman\Music\Belajar\Tugas_UTS\bin\Debug\net5.0\Tugas_UTS.pdb
+C:\Users\wiman\Music\Belajar\Tugas_UTS\obj\Debug\net5.0\Tugas_UTS.dll
+C:\Users\wiman\Music\Belajar\Tugas_UTS\obj\Debug\net5.0\ref\Tugas_UTS.dll
+C:\Users\wiman\Music\Belajar\Tugas_UTS\obj\Debug\net5.0\Tugas_UTS.pdb
+C:\Users\wiman\Music\Belajar\Tugas_UTS\obj\Debug\net5.0\Tugas_UTS.genruntimeconfig.cache
