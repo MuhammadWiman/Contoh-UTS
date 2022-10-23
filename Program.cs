@@ -143,7 +143,7 @@ namespace Tugas_UTS
             else if (username =="sela123") {
                 Console.Write("Masukan Password Anda = ");
                 password = Console.ReadLine();
-                if (password =="224210XX") {
+                if (password =="22421075") {
                     Console.WriteLine("Selamat Datang Sela Afify");
                     Console.WriteLine("=========================================");
                     Console.WriteLine("Pilih beragam Merk Handphone");
@@ -189,7 +189,7 @@ namespace Tugas_UTS
                         }
                     }
                 }
-                else if (password =="224210**") {
+                else if (password =="22421076") {
                     Console.WriteLine("Selamat Datang Sela Seli");
                     Console.WriteLine("=========================================");
                     Console.WriteLine("Pilih beragam Merk Handphone");
