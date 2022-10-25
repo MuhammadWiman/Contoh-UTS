@@ -184,7 +184,7 @@ namespace Tugas_UTS
                 Console.Write("Masukan Password Anda = ");
                 password = Console.ReadLine();
                 if (password =="22421075") {
-                    Console.WriteLine("Selamat Datang Sela Afify");
+                    Console.WriteLine("Selamat Datang Sela Afifa");
                     Console.WriteLine("=========================================");
                     Console.WriteLine("Pilih beragam Merk Handphone");
                     Console.WriteLine("1. Xiaomi");
