@@ -13,7 +13,7 @@ namespace Tugas_UTS
             double diskon;
             double total_diskon;
             double total;
-            Console.WriteLine("www.apaajabasing.com");
+            Console.WriteLine("www.kelompok9.com");
             Console.Write("masukan username anda = ");
             username = Console.ReadLine();
 
