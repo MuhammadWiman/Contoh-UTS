@@ -186,6 +186,9 @@ namespace Tugas_UTS
                             total = 1500000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
+                        else {
+                            Console.WriteLine("Maaf type yang anda masukan tidak tersedia");
+                        }
                     }
                     else {
                         Console.WriteLine("Maaf merk yang anda masukan tidak tersedia");
