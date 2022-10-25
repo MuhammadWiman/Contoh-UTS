@@ -34,6 +34,11 @@ namespace Tugas_UTS
                         Console.Write("Masukan Pilihan type Handphone yang akan di beli : ");
                         type = Console.ReadLine();
                         if (type == "1"){
+                            Console.WriteLine("***********************");
+                            Console.WriteLine("Anda telah memilih Xiaomi Redmi 4");
+                            Console.WriteLine("RAM : 2 GB");
+                            Console.WriteLine("ROM : 16 GB");
+                            Console.WriteLine("***********************");
                             Console.WriteLine("****Pembelian****");
                             Console.Write("Masukan Diskon : ");
                             diskon = double.Parse(Console.ReadLine());
@@ -43,6 +48,11 @@ namespace Tugas_UTS
                             Console.WriteLine("Harga total adalah : " + total);
                         }
                         else if (type == "2") {
+                            Console.WriteLine("***********************");
+                            Console.WriteLine("Anda telah memilih Xiaomi Redmi Note 4x");
+                            Console.WriteLine("RAM : 3 GB");
+                            Console.WriteLine("ROM : 32 GB");
+                            Console.WriteLine("***********************");
                             Console.WriteLine("****Pembelian****");
                             Console.Write("Masukan Diskon : ");
                             diskon = double.Parse(Console.ReadLine());
@@ -59,6 +69,11 @@ namespace Tugas_UTS
                         Console.WriteLine("Masukan Pilihan type Handphone yang akan di Beli");
                         type = Console.ReadLine();
                         if (type == "1") {
+                            Console.WriteLine("***********************");
+                            Console.WriteLine("Anda telah memilih Xperia XZ Compact");
+                            Console.WriteLine("RAM : 3 GB");
+                            Console.WriteLine("ROM : 32 GB");
+                            Console.WriteLine("***********************");
                             Console.WriteLine("****Pembelian****");
                             Console.Write("Masukan Diskon : ");
                             diskon = double.Parse(Console.ReadLine());
@@ -68,6 +83,11 @@ namespace Tugas_UTS
                             Console.WriteLine("Harga total adalah : " + total);
                         }
                         else if (type == "2") {
+                            Console.WriteLine("***********************");
+                            Console.WriteLine("Anda telah memilih Xperia Z1 Compact");
+                            Console.WriteLine("RAM : 2 GB");
+                            Console.WriteLine("ROM : 16 GB");
+                            Console.WriteLine("***********************");
                             Console.WriteLine("****Pembelian****");
                             Console.Write("Masukan Diskon : ");
                             diskon = double.Parse(Console.ReadLine());
@@ -92,6 +112,11 @@ namespace Tugas_UTS
                         Console.Write("Masukan Pilihan type Handphone yang akan di beli : ");
                         type = Console.ReadLine();
                         if (type == "1"){
+                            Console.WriteLine("***********************");
+                            Console.WriteLine("Anda telah memilih Xiaomi Redmi 4");
+                            Console.WriteLine("RAM : 2 GB");
+                            Console.WriteLine("ROM : 16 GB");
+                            Console.WriteLine("***********************");
                             Console.WriteLine("****Pembelian****");
                             Console.Write("Masukan Diskon : ");
                             diskon = double.Parse(Console.ReadLine());
@@ -101,6 +126,11 @@ namespace Tugas_UTS
                             Console.WriteLine("Harga total adalah : " + total);
                         }
                         else if (type == "2") {
+                            Console.WriteLine("***********************");
+                            Console.WriteLine("Anda telah memilih Xiaomi Redmi Note 4x");
+                            Console.WriteLine("RAM : 3 GB");
+                            Console.WriteLine("ROM : 32 GB");
+                            Console.WriteLine("***********************");
                             Console.WriteLine("****Pembelian****");
                             Console.Write("Masukan Diskon : ");
                             diskon = double.Parse(Console.ReadLine());
@@ -117,6 +147,11 @@ namespace Tugas_UTS
                         Console.WriteLine("Masukan Pilihan type Handphone yang akan di Beli");
                         type = Console.ReadLine();
                         if (type == "1") {
+                            Console.WriteLine("***********************");
+                            Console.WriteLine("Anda telah memilih Xperia XZ Compact");
+                            Console.WriteLine("RAM : 3 GB");
+                            Console.WriteLine("ROM : 32 GB");
+                            Console.WriteLine("***********************");
                             Console.WriteLine("****Pembelian****");
                             Console.Write("Masukan Diskon : ");
                             diskon = double.Parse(Console.ReadLine());
@@ -126,6 +161,11 @@ namespace Tugas_UTS
                             Console.WriteLine("Harga total adalah : " + total);
                         }
                         else if (type == "2") {
+                            Console.WriteLine("***********************");
+                            Console.WriteLine("Anda telah memilih Xperia Z1 Compact");
+                            Console.WriteLine("RAM : 2 GB");
+                            Console.WriteLine("ROM : 16 GB");
+                            Console.WriteLine("***********************");
                             Console.WriteLine("****Pembelian****");
                             Console.Write("Masukan Diskon : ");
                             diskon = double.Parse(Console.ReadLine());
@@ -157,12 +197,22 @@ namespace Tugas_UTS
                         Console.Write("Masukan Pilihan type Handphone yang akan di beli : ");
                         type = Console.ReadLine();
                         if (type == "1"){
+                            Console.WriteLine("*******************");
+                            Console.WriteLine("Anda telah memilih Xiaomi Redmi 4");
+                            Console.WriteLine("1. RAM : 2 GB");
+                            Console.WriteLine("1. ROM : 16 GB");
+                            Console.WriteLine("*******************");
                             total_diskon = 1200000 * 0.20;
                             Console.WriteLine("Anda Dapat potongan : " + total_diskon);
                             total = 1200000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
                         else if (type == "2") {
+                            Console.WriteLine("*******************");
+                            Console.WriteLine("Anda telah memilih Xiaomi Redmi Note 4x");
+                            Console.WriteLine("1. RAM : 3 GB");
+                            Console.WriteLine("1. ROM : 32 GB");
+                            Console.WriteLine("*******************");
                             total_diskon = 1500000 * 0.20;
                             Console.WriteLine("Anda Dapat potongan : " + total_diskon);
                             total = 1500000 - total_diskon;
@@ -176,12 +226,22 @@ namespace Tugas_UTS
                         Console.WriteLine("Masukan Pilihan type Handphone yang akan di Beli");
                         type = Console.ReadLine();
                         if (type == "1") {
+                            Console.WriteLine("*******************");
+                            Console.WriteLine("Anda telah memilih Xperia XZ Compact");
+                            Console.WriteLine("1. RAM : 3 GB");
+                            Console.WriteLine("1. ROM : 32 GB");
+                            Console.WriteLine("*******************");
                             total_diskon = 1800000 * 0.20;
                             Console.WriteLine("Anda Dapat potongan : " + total_diskon);
                             total = 1800000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
                         else if (type == "2") {
+                            Console.WriteLine("*******************");
+                            Console.WriteLine("Anda telah memilih Xperia Z1 Compact");
+                            Console.WriteLine("1. RAM : 2 GB");
+                            Console.WriteLine("1. ROM : 16 GB");
+                            Console.WriteLine("*******************");
                             total_diskon = 1500000 * 0.20;
                             Console.WriteLine("Anda Dapat potongan : " + total_diskon);
                             total = 1500000 - total_diskon;
@@ -203,12 +263,22 @@ namespace Tugas_UTS
                         Console.Write("Masukan Pilihan type Handphone yang akan di beli : ");
                         type = Console.ReadLine();
                         if (type == "1"){
+                            Console.WriteLine("*******************");
+                            Console.WriteLine("Anda telah memilih Xiaomi Redmi 4");
+                            Console.WriteLine("1. RAM : 2 GB");
+                            Console.WriteLine("1. ROM : 16 GB");
+                            Console.WriteLine("*******************");
                             total_diskon = 1200000 * 0.30;
                             Console.WriteLine("Anda Dapat potongan : " + total_diskon);
                             total = 1200000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
                         else if (type == "2") {
+                            Console.WriteLine("*******************");
+                            Console.WriteLine("Anda telah memilih Xiaomi Redmi Note 4x");
+                            Console.WriteLine("1. RAM : 3 GB");
+                            Console.WriteLine("1. ROM : 32 GB");
+                            Console.WriteLine("*******************");
                             total_diskon = 1500000 * 0.30;
                             Console.WriteLine("Anda Dapat potongan : " + total_diskon);
                             total = 1500000 - total_diskon;
@@ -222,12 +292,22 @@ namespace Tugas_UTS
                         Console.WriteLine("Masukan Pilihan type Handphone yang akan di Beli");
                         type = Console.ReadLine();
                         if (type == "1") {
+                            Console.WriteLine("*******************");
+                            Console.WriteLine("Anda telah memilih Xperia XZ Compact");
+                            Console.WriteLine("1. RAM : 3 GB");
+                            Console.WriteLine("1. ROM : 32 GB");
+                            Console.WriteLine("*******************");
                             total_diskon = 1800000 * 0.30;
                             Console.WriteLine("Anda Dapat potongan : " + total_diskon);
                             total = 1800000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
                         else if (type == "2") {
+                            Console.WriteLine("*******************");
+                            Console.WriteLine("Anda telah memilih Xperia Z1 Compact");
+                            Console.WriteLine("1. RAM : 2 GB");
+                            Console.WriteLine("1. ROM : 16 GB");
+                            Console.WriteLine("*******************");
                             total_diskon = 1500000 * 0.30;
                             Console.WriteLine("Anda Dapat potongan : " + total_diskon);
                             total = 1500000 - total_diskon;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wiman\\Music\\Belajar\\Tugas_UTS\\Tugas_UTS.csproj": {}
+    "D:\\Kumpulan Tugas Kampus\\Tugas_UTS\\Tugas_UTS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wiman\\Music\\Belajar\\Tugas_UTS\\Tugas_UTS.csproj": {
+    "D:\\Kumpulan Tugas Kampus\\Tugas_UTS\\Tugas_UTS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiman\\Music\\Belajar\\Tugas_UTS\\Tugas_UTS.csproj",
+        "projectUniqueName": "D:\\Kumpulan Tugas Kampus\\Tugas_UTS\\Tugas_UTS.csproj",
         "projectName": "Tugas_UTS",
-        "projectPath": "C:\\Users\\wiman\\Music\\Belajar\\Tugas_UTS\\Tugas_UTS.csproj",
+        "projectPath": "D:\\Kumpulan Tugas Kampus\\Tugas_UTS\\Tugas_UTS.csproj",
         "packagesPath": "C:\\Users\\wiman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiman\\Music\\Belajar\\Tugas_UTS\\obj\\",
+        "outputPath": "D:\\Kumpulan Tugas Kampus\\Tugas_UTS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wiman\\AppData\\Roaming\\NuGet\\NuGet.Config",
