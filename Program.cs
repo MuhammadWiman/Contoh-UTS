@@ -61,6 +61,9 @@ namespace Tugas_UTS
                             total = 1500000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
+                        else {
+                            Console.WriteLine("Maaf type yang anda masukan tidak tersedia");
+                        }
                     }
                     else if (merk == "2") {
                         Console.WriteLine("Pilih type Handphone Sony");
@@ -96,6 +99,12 @@ namespace Tugas_UTS
                             total = 1500000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
+                        else {
+                            Console.WriteLine("Maaf type yang anda masukan tidak tersedia");
+                        }
+                    }
+                    else {
+                        Console.WriteLine("Maaf merk yang anda masukan tidak tersedia");
                     }
                 }
                 else if (password =="22421075") {
@@ -139,6 +148,9 @@ namespace Tugas_UTS
                             total = 1500000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
+                        else {
+                            Console.WriteLine("Maaf type yang anda masukan tidak tersedia");
+                        }
                     }
                     else if (merk == "2") {
                         Console.WriteLine("Pilih type Handphone Sony");
@@ -174,6 +186,9 @@ namespace Tugas_UTS
                             total = 1500000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
+                    }
+                    else {
+                        Console.WriteLine("Maaf merk yang anda masukan tidak tersedia");
                     }
                 }
                 else {
@@ -218,6 +233,9 @@ namespace Tugas_UTS
                             total = 1500000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
+                        else {
+                            Console.WriteLine("Maaf type yang anda masukan tidak tersedia");
+                        }
                     }
                     else if (merk == "2") {
                         Console.WriteLine("Pilih type Handphone Sony");
@@ -247,6 +265,12 @@ namespace Tugas_UTS
                             total = 1500000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
+                        else {
+                            Console.WriteLine("Maaf type yang anda masukan tidak tersedia");
+                        }
+                    }
+                    else {
+                        Console.WriteLine("Maaf merk yang anda masukan tidak tersedia");
                     }
                 }
                 else if (password =="22421076") {
@@ -284,6 +308,9 @@ namespace Tugas_UTS
                             total = 1500000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
+                        else {
+                            Console.WriteLine("Maaf type yang anda masukan tidak tersedia");
+                        }
                     }
                     else if (merk == "2") {
                         Console.WriteLine("Pilih type Handphone Sony");
@@ -313,6 +340,12 @@ namespace Tugas_UTS
                             total = 1500000 - total_diskon;
                             Console.WriteLine("Harga total adalah : " + total);
                         }
+                        else {
+                            Console.WriteLine("Maaf type yang anda masukan tidak tersedia");
+                        }
+                    }
+                    else {
+                        Console.WriteLine("Maaf merk yang anda masukan tidak tersedia");
                     }
                 }
                 else {
